@@ -21,7 +21,7 @@ in the [jawallace/xuggle-xuggler](https://github.com/jawallace/xuggle-xuggler) f
 
 ## README from [xuggle/xuggle-xuggler](https://github.com/artclarke/xuggle-xuggler) base project
 
-###Welcome to Xuggle-Xuggler-Main (a.k.a. Xuggler)
+### Welcome to Xuggle-Xuggler-Main (a.k.a. Xuggler)
 
 http://www.xuggle.com/xuggler
 
