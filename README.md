@@ -2,7 +2,7 @@
 
 ## What's different in this fork?
 
-Time has been spent in trying to successfully build the original
+Much time has been spent in trying to successfully build the original
 GPL licensed version of the source code along with an LGPL
 variant. This trial-and-error build knowledge has been put into
 the [build-help.txt](https://github.com/e-d/xuggle-xuggler/blob/master/build-help.txt) file. 
@@ -93,4 +93,3 @@ what you need from the Java docs, then please, check out the C++ docs.
 
 Visit:
 http://www.xuggle.com/xuggler
-
